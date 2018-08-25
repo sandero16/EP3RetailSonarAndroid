@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu Aug 23 22:27:46 CEST 2018
+2.base=/home/sander/Documents/project Augustus eclipse version/android/final 2.0/RetailSonar/app/build/intermediates/assets/debug
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=/home/sander/Documents/project Augustus eclipse version/android/final 2.0/RetailSonar/app/build/intermediates/assets/debug
+2.set=ASSET
+1.path=fonts/Quicksand_Bold.otf
+4.base=/home/sander/Documents/project Augustus eclipse version/android/final 2.0/RetailSonar/app/build/intermediates/assets/debug
+count=5
+2.path=fonts/Sofia Pro Bold.ttf
+4.set=ASSET
+3.path=crashlytics-build.properties
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/permanentmarker.ttf
+1.baseType=DIRECTORY
+0.base=/home/sander/Documents/project Augustus eclipse version/android/final 2.0/RetailSonar/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/home/sander/Documents/project Augustus eclipse version/android/final 2.0/RetailSonar/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=DEX

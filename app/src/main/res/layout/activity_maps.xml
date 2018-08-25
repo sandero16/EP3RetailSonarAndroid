@@ -1,0 +1,64 @@
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MapsActivity">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="be.retailsonar.retailsonar.MapsActivity" />
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/rood"
+        android:orientation="horizontal">
+
+
+
+        <RadioButton
+            android:id="@+id/buttonSetFrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Pointer 1"
+            android:textColor="@color/white"
+            />
+
+        <RadioButton
+            android:id="@+id/buttonSetTo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Pointer 2"
+            android:textColor="@color/white"/>
+
+
+
+
+        <Button
+            android:id="@+id/buttonCalcDistance"
+            android:text="Distance"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+</LinearLayout>
+</FrameLayout>

@@ -1,0 +1,541 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6a21ab5820b28a6bda4bb649c19bb189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d3e02faad2130e8cf71f474dfd5ecc41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cab5ab13dfd8979a773dd2261a9acd33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\79cab8889c3a9cca688f6c5c24d5f896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta6.aar\e214265d6cb5cd1ba4ba2cdb1ef57a31\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\823b588b1f9e9057c80a03070eef044a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\2170b26914ef9882a1d615bd8c648d7c\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\1b67693c1e10b4538d730f070c6c2cd0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7d4fc91bbdf87f0b4474e09af41e6faf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\aa4fbe5c28778b126e3dccf966e14aaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\c80b765dfa26e05a0bde23f2240d1a13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\266845656aa05e1250cbc96906becee5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d0909490d0f8f5069dcf713c119636f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a1a4922215d3e0f243dbf5d5852bd9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d9654cff7a3bf0daa94dcfb8095f5eb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff46900fc410c41025d515e636065b1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\25a56fe5644f96154e68115ca482a123\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\0ac0fdb9e6caea4ba484521ab92941ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3ae3cbc5f48b20493d9a996224b3685\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\547464cc857b9d303cbcd6ad06c3c6e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\5af983dad13093e52bdbeb544247bba3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40086b02201b5a463a7a3c9e5e220c5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c7c38c7b0d17f252b9bc019c2225663\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1186cb650ff3c965041f9b67cc44c2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\948cfdaf0f20210c972760e2643bf37d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f3da2b4d1044a6e93f0655619b16c51f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\297ec6e40058eba2d53d754031e9815a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\bffa30a9f925a3f345b4b640095dd056\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\63da08e2e83a8dd852fd348407acf2da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\e137e8f40a6bb65a5e73626481ac9a7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6800979df134bad01cbc6a7cc20af72f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8c1f7b6bb07f6073be2be881e2e7530\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\027988c8cb0eaf2edb8e1871452ed9d8\AndroidManifest.xml:17:1-24:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:1-76:12
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:12:5-79
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:16:5-74:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:15:5-91:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta6.aar\e214265d6cb5cd1ba4ba2cdb1ef57a31\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta6.aar\e214265d6cb5cd1ba4ba2cdb1ef57a31\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\823b588b1f9e9057c80a03070eef044a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\823b588b1f9e9057c80a03070eef044a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7d4fc91bbdf87f0b4474e09af41e6faf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7d4fc91bbdf87f0b4474e09af41e6faf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:7:5-11:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\948cfdaf0f20210c972760e2643bf37d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\948cfdaf0f20210c972760e2643bf37d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f3da2b4d1044a6e93f0655619b16c51f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f3da2b4d1044a6e93f0655619b16c51f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\297ec6e40058eba2d53d754031e9815a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\297ec6e40058eba2d53d754031e9815a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\bffa30a9f925a3f345b4b640095dd056\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\bffa30a9f925a3f345b4b640095dd056\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\63da08e2e83a8dd852fd348407acf2da\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\63da08e2e83a8dd852fd348407acf2da\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\e137e8f40a6bb65a5e73626481ac9a7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\e137e8f40a6bb65a5e73626481ac9a7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6800979df134bad01cbc6a7cc20af72f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6800979df134bad01cbc6a7cc20af72f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8c1f7b6bb07f6073be2be881e2e7530\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8c1f7b6bb07f6073be2be881e2e7530\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\027988c8cb0eaf2edb8e1871452ed9d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\027988c8cb0eaf2edb8e1871452ed9d8\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:17:9-42
+uses-library#com.google.android.maps
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:24:9-26:39
+	android:required
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:25:13-51
+activity#be.retailsonar.retailsonar.LoginActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:30:13-45
+	android:windowSoftInputMode
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:32:13-65
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:29:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:36:27-74
+activity#be.retailsonar.retailsonar.UserActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:39:9-42:59
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:41:13-56
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:40:13-41
+activity#be.retailsonar.retailsonar.AlleTakenActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:43:9-46:59
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:45:13-62
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:44:13-46
+activity#be.retailsonar.retailsonar.SettingsActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:47:9-50:59
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:49:13-60
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:48:13-45
+activity#be.retailsonar.retailsonar.TakenActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:51:9-54:59
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:53:13-57
+	android:theme
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:52:13-42
+meta-data#com.google.android.geo.API_KEY
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:63:9-65:55
+	android:value
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:65:13-52
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:64:13-58
+activity#be.retailsonar.retailsonar.MapsActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:67:9-69:59
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:68:13-41
+activity#be.retailsonar.retailsonar.keuzeMapsActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:70:9-55
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:70:19-52
+activity#be.retailsonar.retailsonar.AreaMapsActivity
+ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:71:9-73:64
+	android:label
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:73:13-61
+	android:name
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml:72:13-45
+uses-sdk
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6a21ab5820b28a6bda4bb649c19bb189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6a21ab5820b28a6bda4bb649c19bb189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d3e02faad2130e8cf71f474dfd5ecc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\d3e02faad2130e8cf71f474dfd5ecc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cab5ab13dfd8979a773dd2261a9acd33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cab5ab13dfd8979a773dd2261a9acd33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\79cab8889c3a9cca688f6c5c24d5f896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\79cab8889c3a9cca688f6c5c24d5f896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta6.aar\e214265d6cb5cd1ba4ba2cdb1ef57a31\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta6.aar\e214265d6cb5cd1ba4ba2cdb1ef57a31\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\823b588b1f9e9057c80a03070eef044a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\823b588b1f9e9057c80a03070eef044a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\2170b26914ef9882a1d615bd8c648d7c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\2170b26914ef9882a1d615bd8c648d7c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\1b67693c1e10b4538d730f070c6c2cd0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\1b67693c1e10b4538d730f070c6c2cd0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7d4fc91bbdf87f0b4474e09af41e6faf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7d4fc91bbdf87f0b4474e09af41e6faf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\aa4fbe5c28778b126e3dccf966e14aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\aa4fbe5c28778b126e3dccf966e14aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\c80b765dfa26e05a0bde23f2240d1a13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\c80b765dfa26e05a0bde23f2240d1a13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\266845656aa05e1250cbc96906becee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\266845656aa05e1250cbc96906becee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d0909490d0f8f5069dcf713c119636f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5d0909490d0f8f5069dcf713c119636f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a1a4922215d3e0f243dbf5d5852bd9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a1a4922215d3e0f243dbf5d5852bd9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d9654cff7a3bf0daa94dcfb8095f5eb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d9654cff7a3bf0daa94dcfb8095f5eb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff46900fc410c41025d515e636065b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ff46900fc410c41025d515e636065b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\25a56fe5644f96154e68115ca482a123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\25a56fe5644f96154e68115ca482a123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\0ac0fdb9e6caea4ba484521ab92941ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\0ac0fdb9e6caea4ba484521ab92941ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3ae3cbc5f48b20493d9a996224b3685\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f3ae3cbc5f48b20493d9a996224b3685\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\547464cc857b9d303cbcd6ad06c3c6e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\547464cc857b9d303cbcd6ad06c3c6e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\5af983dad13093e52bdbeb544247bba3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\5af983dad13093e52bdbeb544247bba3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40086b02201b5a463a7a3c9e5e220c5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\40086b02201b5a463a7a3c9e5e220c5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c7c38c7b0d17f252b9bc019c2225663\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c7c38c7b0d17f252b9bc019c2225663\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1186cb650ff3c965041f9b67cc44c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a1186cb650ff3c965041f9b67cc44c2a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\948cfdaf0f20210c972760e2643bf37d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\948cfdaf0f20210c972760e2643bf37d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f3da2b4d1044a6e93f0655619b16c51f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\f3da2b4d1044a6e93f0655619b16c51f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\297ec6e40058eba2d53d754031e9815a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\297ec6e40058eba2d53d754031e9815a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\bffa30a9f925a3f345b4b640095dd056\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\bffa30a9f925a3f345b4b640095dd056\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\63da08e2e83a8dd852fd348407acf2da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\63da08e2e83a8dd852fd348407acf2da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\e137e8f40a6bb65a5e73626481ac9a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\e137e8f40a6bb65a5e73626481ac9a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6800979df134bad01cbc6a7cc20af72f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6800979df134bad01cbc6a7cc20af72f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8c1f7b6bb07f6073be2be881e2e7530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8c1f7b6bb07f6073be2be881e2e7530\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\027988c8cb0eaf2edb8e1871452ed9d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\027988c8cb0eaf2edb8e1871452ed9d8\AndroidManifest.xml:20:5-44
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		ADDED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+		INJECTED from I:\project Augustus eclipse version\android\final 2.0\RetailSonar\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fe52740c184f210571becacdd4837f9a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ac81f77be918add3eb5cc91ad1a7b0f5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:33:9-37:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:36:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:37:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:34:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:41:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:39:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:43:9-47:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:46:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:47:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:48:9-52:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:51:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:49:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:56:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:54:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:58:9-61:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:61:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:59:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:62:9-66:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:65:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:64:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:63:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:67:9-71:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:70:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:69:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:68:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:72:9-84:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:74:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:73:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:76:13-83:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:79:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:80:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:80:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:82:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:82:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:86:9-90:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:88:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:89:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:90:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.0.aar\5f052aadf64358800a57e54e48769362\AndroidManifest.xml:87:13-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\32c0c69a50b947167df8208c79d84fbf\AndroidManifest.xml:28:9-32
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5294b4a03a91c1a8899066370cf2cd15\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\9c42e32efd0a777f4d0e1db57791d910\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\2d947cb08f61e8e35723cdb4cf8bef3b\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\4c6df922f206e85c58329ac07263be75\AndroidManifest.xml:9:13-77
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\webstek\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\932ba827cf9e1d12e35c3bb3be64b5e3\AndroidManifest.xml:24:13-83
